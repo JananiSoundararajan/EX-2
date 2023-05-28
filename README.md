@@ -47,8 +47,10 @@ while True:
  ```
 ## OUTPUT :
 CLIENT:
+
 ![OUTPUT](1aclient.png)
 SERVER:
+
 ![OUTPUT](1aserver.png)
 
 ## RESULT :
