@@ -49,6 +49,7 @@ while True:
 CLIENT:
 
 ![OUTPUT](1aclient.png)
+
 SERVER:
 
 ![OUTPUT](1aserver.png)
